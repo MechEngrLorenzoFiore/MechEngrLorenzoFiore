@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to leverage Machine Learning libraries
 - 👯 I’m looking to collaborate on automation and mechatronics projects
 - 💬 Ask me about: stochastic mechanics, fractional derivative material models, frequency analisys, structural analisys, CAD-CAM
-- ⚡ Fun fact: I love automate boring stuff (usually with python or cmd scripts)
+- ⚡ Fun fact: I love automating boring stuff (usually with python or cmd scripts)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
