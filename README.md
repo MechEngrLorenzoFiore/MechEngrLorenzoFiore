@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **MechEngrLorenzoFiore/MechEngrLorenzoFiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Lorenzo
+
+## I'm a Mechanical Engineer, passionate about innovation and the way people are able to push forward the knowledge limits together.
+
+- 🔭 I’m currently working on different projects in FEM analisys
+- 🌱 I’m currently learning how to leverage Machine Learning libraries
+- 👯 I’m looking to collaborate on automation and mechatronics projects
+- 💬 Ask me about: stochastic mechanics, fractional derivative material models, frequency analisys, structural analisys, CAD-CAM
+- ⚡ Fun fact: I love playing guitar and experimenting with digital effects
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+- Python
+- Matlab
+- C
+- cmd 
+- bash
+
+
+<br />
+<br />
+
+---
+
+
+[linkedin]: https://www.linkedin.com/in/lorenzo-fiore-372b83194/
