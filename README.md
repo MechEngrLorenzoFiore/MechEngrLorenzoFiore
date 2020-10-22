@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to leverage Machine Learning libraries
 - 👯 I’m looking to collaborate on automation and mechatronics projects
 - 💬 Ask me about: stochastic mechanics, fractional derivative material models, frequency analisys, structural analisys, CAD-CAM
-- ⚡ Fun fact: I love playing guitar and experimenting with digital effects
+- ⚡ Fun fact: I love automate boring stuff (usually with python or cmd scripts)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 - cmd 
 - bash
 
+<!-- card dei linguaggi usati nelle repository appena ne avrai
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <br />
 <br />
