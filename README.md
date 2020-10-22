@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - Python
 - Matlab
 - C
+- Ansys APDL
+- LaTex
 - cmd 
 - bash
 
