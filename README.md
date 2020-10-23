@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## I'm a Mechanical Engineer, passionate about innovation and the way people are able to push forward the knowledge limits together.
 
-- 🔭 I’m currently working on different projects in FEM analisys
-- 🌱 I’m currently learning how to leverage Machine Learning libraries
+- 🔭 I’m currently working on different projects in FEM analisys, on a gradient infill algoritm for 3D printed parts and a tool for custom gear profiles 
+- 🌱 I’m currently learning how to leverage Machine Learning libraries and I'm willing to apply it to the operation of quoting a technical drawing
 - 👯 I’m looking to collaborate on automation and mechatronics projects
-- 💬 Ask me about: stochastic mechanics, fractional derivative material models, frequency analisys, structural analisys, CAD-CAM
+- 💬 Ask me about: stochastic mechanics, fractional derivative material models, frequency analisys, structural analisys, CAD-CAM, CNC machines but also GIS and cartography
 - ⚡ Fun fact: I love automating boring stuff (usually with python or cmd scripts)
 
 ### Connect with me:
